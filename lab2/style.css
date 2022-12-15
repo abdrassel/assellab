@@ -1,0 +1,95 @@
+.text1{
+    color: red;
+}
+.text2{
+    color: rgba(246, 58, 58, 0.4);
+}
+.text3{
+    color: #ff0000;
+}
+.text4{
+    color: white;
+    background-color: red;
+}
+.text5{
+    background-color: yellow;
+    outline-style: solid;
+    padding: 25px;
+}
+.text6{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 20px;
+    border-top: dotted;
+    border-top-color: green;
+    border-bottom: dashed;
+    border-bottom-color: red ;
+}
+.text7{
+    color: white;
+    background-color: red;
+    border-radius: 20px;
+    padding: 25px;
+    outline-style: solid;
+    outline-color: black;
+}
+.text8{
+    padding: 25px;
+    background-color: yellow;
+    outline-style: solid;
+    width: 1475px;
+    height: 10px;
+    border-radius: 100%;
+}
+.text9{
+    color: white;
+    width: 2cm;
+    height: 2cm;
+    background-color: #ff0000;
+    border-radius: 50%;
+    display: inline-block;
+    outline-style: solid;
+    outline-color: black;
+    line-height: 2cm;
+    text-align: center;
+}
+.text10{
+    color: green;
+    text-decoration: underline;
+}
+.loo {
+    display: flex;
+}
+.text11{
+    display: inline-block;
+    margin-left: 10px;
+}
+.textblock{
+    color: green;
+    margin-top: 5px;
+}
+.text12{
+    width: 270px;
+    background-color: yellow;
+    margin-top: 10px;
+    margin-right: 5px;
+}
+.textsquare{
+    color: white;
+    width: 40px;
+    height: 40px;
+    background-color: red;
+    margin-top: 20px;
+}
+.text13{
+    margin-top: 10px;
+    text-align: left;
+}
+.text14{
+    margin-top: 10px;
+    text-align: center;
+}
+.text15{
+    margin-top: 10px;
+    text-align: right;
+}
