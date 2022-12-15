@@ -1,0 +1,23 @@
+body{
+    background:url(background.webp)no-repeat;
+  }
+  .mama{ 
+    display: none;
+  }
+  .mama2{
+    display: unset;
+  } 
+  #end{
+    color: white;
+    background-color: black;
+    font-family: sans-serif;
+    align-items: center;
+    text-align: center;
+    padding: 5px 5px 5px 5px;
+    margin: 0;
+    bottom: 0px;
+}
+#end a{
+    color: red;
+    text-decoration: none;
+}
